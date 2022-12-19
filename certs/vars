@@ -1,0 +1,10 @@
+set_var EASYRSA_DN	           "cn_only"
+set_var EASYRSA_REQ_COUNTRY    "US"
+set_var EASYRSA_REQ_PROVINCE   "NewYork"
+set_var EASYRSA_REQ_CITY       "New York City"
+set_var EASYRSA_REQ_ORG        "Devops"
+set_var EASYRSA_REQ_EMAIL      "devops@devops.com"
+set_var EASYRSA_REQ_OU         "Devops"
+set_var EASYRSA_ALGO           "rsa"
+set_var EASYRSA_KEY_SIZE	   2048
+set_var EASYRSA_DIGEST         "sha256" 
